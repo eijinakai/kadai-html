@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* チャプター：全体の設定 */
+body {
+    width: 1000px;
+}
+
+/* チャプター：ヘッダー */
+header {
+    width: 1000px;
+    background-color: #ffcccc;
+}
+
+/* チャプター：見出しの装飾 */
+#main {
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+#menu {
+    width: 300px;
+    background-color: #ccccff;
+}
+
+/* チャプター：メインとサイドバー（2カラムレイアウト） */
+#wrapper {
+    display: flex;
+}
+
+/* チャプター：フッター */
+footer {
+    width: 1000px;
+    background-color: #ffccff;
+}
+
+
